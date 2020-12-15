@@ -1,4 +1,6 @@
-[![Wallace Sidhrée's github stats](https://github-readme-stats.vercel.app/api?username=dreamyguy&count_private=true&show_icons=true&hide_title=true&hide_border=true)](https://github.com/dreamyguy)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=dreamyguy&count_private=true&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true" title="Wallace Sidhrée's github stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamyguy&layout=compact" title="Wallace Sidhrée's top languages" /></p>
 
 <!--
 **dreamyguy/dreamyguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
