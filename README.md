@@ -10,6 +10,8 @@ User-friendly web interfaces and everything that make them possible is what inte
 
 When I'm not writing code tailored to my client's needs, I spend my time sharpening my skills and testing new tech through personal projects. I'm a big fan of functional programming, test-driven development, automation and continuous integration/delivery.
 
+<!--
+
 _**Some of my personal favourites:**_
 
 ---
@@ -95,6 +97,8 @@ It doesn't solve hard problems, but puts a smile in your face. I use its [demo p
 There's a discovery mode to help you find something amusing, and once you've found it, you can create a calendar event right from the app, and be notified as it happens, _to the second_!
 
 Everything you set or choose is shareable with _'copy-url-to-clipboard'_ functionality. If you'd like to surprise your partner with how many hours you've been together, you're covered!
+
+-->
 
 ---
 
